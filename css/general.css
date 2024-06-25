@@ -12,11 +12,6 @@
   box-sizing: border-box;
 }
 
-:focus,
-:active {
-  outline: none;
-}
-
 a {
   color: inherit;
 }
